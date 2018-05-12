@@ -1,0 +1,35 @@
+_repo: Der-Hasenroman_39391
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Hegner, Jakob
+    gutenberg_agent_id: '39998'
+    url: http://www.gutenberg.org/2009/agents/39998
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jammes, Francis
+    birthdate: 1868
+    deathdate: 1938
+    gutenberg_agent_id: '4702'
+    url: http://www.gutenberg.org/2009/agents/4702
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Francis_Jammes
+    - http://en.wikipedia.org/wiki/Francis_Jammes
+description: ''
+gutenberg_bookshelf: DE Lyrik
+gutenberg_issued: '2012-04-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39391'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- Translations into German'
+title: Der Hasenroman
+url: http://www.gutenberg.org/ebooks/39391
