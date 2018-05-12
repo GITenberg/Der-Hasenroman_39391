@@ -19,6 +19,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Francis_Jammes
     - http://en.wikipedia.org/wiki/Francis_Jammes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39391#Der-Hasenroman
 gutenberg_bookshelf: DE Lyrik
 gutenberg_issued: '2012-04-06'
 gutenberg_type: Text
